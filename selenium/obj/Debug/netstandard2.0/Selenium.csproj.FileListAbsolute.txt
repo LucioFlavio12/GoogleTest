@@ -1,0 +1,9 @@
+C:\projetoGoogle01\selenium\bin\Debug\netstandard2.0\Selenium.deps.json
+C:\projetoGoogle01\selenium\bin\Debug\netstandard2.0\Selenium.dll
+C:\projetoGoogle01\selenium\bin\Debug\netstandard2.0\Selenium.pdb
+C:\projetoGoogle01\selenium\obj\Debug\netstandard2.0\Selenium.csprojAssemblyReference.cache
+C:\projetoGoogle01\selenium\obj\Debug\netstandard2.0\Selenium.AssemblyInfoInputs.cache
+C:\projetoGoogle01\selenium\obj\Debug\netstandard2.0\Selenium.AssemblyInfo.cs
+C:\projetoGoogle01\selenium\obj\Debug\netstandard2.0\Selenium.csproj.CoreCompileInputs.cache
+C:\projetoGoogle01\selenium\obj\Debug\netstandard2.0\Selenium.dll
+C:\projetoGoogle01\selenium\obj\Debug\netstandard2.0\Selenium.pdb
